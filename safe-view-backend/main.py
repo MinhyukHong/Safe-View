@@ -18,9 +18,9 @@ jobs = {}
 cache = {}
 
 # API 키
-VT_API_KEY = "29e526bc2c61693d1cf2b130d8dfdfd5aabe953496a47d6e22240a98ae58503b"
-GEMINI_API_KEY = "AIzaSyCgcQrzD_E3bIR7wE9kxCxe0zMxpRTMypw"
-SHODAN_API_KEY = "aG3vzlHKPDXUpwJCzIdp8oC6M62lldDG"
+VT_API_KEY = "YOUR KEY"
+GEMINI_API_KEY = "YOUR KEY"
+SHODAN_API_KEY = "YOUR KEY"
 
 # 서비스 및 분석기 인스턴스 생성
 vt_service = VirusTotalService(api_key=VT_API_KEY)
