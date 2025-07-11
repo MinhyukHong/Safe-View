@@ -42,34 +42,32 @@ MongoDB Community Edition
 
 2. 서버 실행 (safe-view-backend)
 
-   ```
-
-# 1. 서버 디렉토리로 이동
+```
+// 1. 서버 디렉토리로 이동
 
 cd safe-view-backend
 
-# 2. 필요한 패키지 설치
+// 2. 필요한 패키지 설치
 
 pip install -r requirements.txt
 
-# 3. FastAPI 서버 실행
+// 3. FastAPI 서버 실행
 
 uvicorn main:app --reload
 서버는 http://127.0.0.1:8000 에서 실행
+```
 
 3. 클라이언트 실행 (safe-view-app)
-   Bash
-
-# 1. 클라이언트 디렉토리로 이동
+```
+// 1. 클라이언트 디렉토리로 이동
 
 cd safe-view-app
 
-# 2. Flutter 의존성 패키지 설치
+// 2. Flutter 의존성 패키지 설치
 
 flutter pub get
 
-# 3. iOS 시뮬레이터 또는 실제 기기에서 앱 실행
+// 3. iOS 시뮬레이터 또는 실제 기기에서 앱 실행
 
 flutter run
-
 ```
