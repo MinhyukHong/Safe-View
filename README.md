@@ -70,5 +70,5 @@ flutter run
 ```
 
 ### Demo
-
+---
 https://github.com/user-attachments/assets/ee766d0e-c658-4900-8799-a4f8a33d4c8f
