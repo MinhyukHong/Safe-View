@@ -41,7 +41,6 @@ Docker Desktop
 MongoDB Community Edition
 
 2. 서버 실행 (safe-view-backend)
-   ```
 
    ```
 
@@ -72,7 +71,5 @@ flutter pub get
 # 3. iOS 시뮬레이터 또는 실제 기기에서 앱 실행
 
 flutter run
-
-```
 
 ```
