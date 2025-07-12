@@ -2,7 +2,11 @@
 
 문자나 이메일로 받은 의심스러운 URL, 클릭하기 전에 안전한지 미리 확인하고 싶다는 아이디어에서 시작된 프로젝트입니다. Safe-View는 사용자가 입력한 URL을 격리된 가상 환경(샌드박스)에서 대신 열어보고, 여러 전문 API와 AI의 종합 분석을 통해 다각적인 안전성 리포트를 제공하는 모바일 애플리케이션입니다.
 
-<img width="700" height="1469" alt="image" src="https://github.com/user-attachments/assets/18ce1dbe-b53b-4050-b441-ae46c240b765" />
+<img width="200" height="440" alt="image" src="https://github.com/user-attachments/assets/18ce1dbe-b53b-4050-b441-ae46c240b765" />
+<img width="200" height="440" alt="image" src="https://github.com/user-attachments/assets/64f6719a-e18c-4f85-be7f-b6d85856bc60" />
+<img width="200" height="440" alt="image" src="https://github.com/user-attachments/assets/fbf97e80-15cf-4c8e-9e3d-f8862ad85097" />
+<img width="200" height="440" alt="image" src="https://github.com/user-attachments/assets/8c5e687a-73f7-47d0-b781-35fd26804b93" />
+
 
 
 ### 주요 기능
